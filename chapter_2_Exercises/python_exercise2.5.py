@@ -6,3 +6,5 @@ area = pi * radius * radius
 print(diameter)
 print (circumfrence)
 print(area)
+
+# refactor use one print statement
