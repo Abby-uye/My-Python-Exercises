@@ -18,8 +18,8 @@ class MyTestCase(unittest.TestCase):
 
     def test_odd_index(self):
         numbers = [1,2,3,4]
-        odd = [2,4]
-        self.assertEqual(odd,functions.numbers(numbers))
+        oddPosition = [2,4]
+        self.assertEqual(oddPosition,functions.numbers(numbers))
 
     def test_running_total(self):
         numbers = [1,2,3,4,5,6,7,8,9]
