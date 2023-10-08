@@ -1,12 +1,6 @@
-def number(numbers):
-    largest = 0
-    for item in numbers:
-        if item > largest:
-            largest = item
-    return largest
-
-
-
+list1 = [2,4,6]
+list1.append(3)
+print(list1)
 
 
 
