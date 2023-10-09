@@ -1,8 +1,7 @@
-list1 = [2,4,6]
-list1.append(3)
-print(list1)
-
-
-
+# the_list = [15,6,7]
+# for index in range(len(the_list)):
+#     print(the_list)
+# for index in the_list:
+#     print(the_list)
 
 
