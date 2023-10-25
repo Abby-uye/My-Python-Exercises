@@ -1,0 +1,5 @@
+user_input = input("Enter a sequence of numbers: ")
+list_of_numbers = list(user_input)
+print(list_of_numbers)
+list_of_numbers2 = tuple(user_input)
+print(list_of_numbers2)

@@ -4,3 +4,4 @@ def unpacking_tuple(numbers):
     last_item = numbers[-1]
     new_tuple +=  last_item, first_item
     return new_tuple
+print(unpacking_tuple((3,5,4,3)))
